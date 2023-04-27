@@ -2,7 +2,7 @@
 
 # Rahul Singh
 
-I am Rahul Singh, a Data Scientist, with a high degree of interest in quantitative  research and financial markets, particularly in derivatives(mostly options) and equities. Currently, I work as a Data Scientist. <br/>
+I am Rahul Singh,I work as a Data Scientist. <br/>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rahulmeetu/)](https://twitter.com/rahulmeetu/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulsingh13/)](https://www.linkedin.com/in/rahulsingh13/)
