@@ -2,7 +2,7 @@
 
 # Rahul Singh
 
-I am Rahul Singh,I work as a Data Scientist. <br/>
+I am Rahul Singh work as a Data Scientist and Business Intelligence.I am data Geek. <br/>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rahulmeetu/)](https://twitter.com/rahulmeetu/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulsingh13/)](https://www.linkedin.com/in/rahulsingh13/)
