@@ -2,7 +2,7 @@
 
 # Rahul Singh
 
-I am Rahul Singh work as a Data Scientist.I am intrested in Quantitative development and AI. <br/>
+I am Rahul Singh work as a Data Scientist.I am intrested in AI and Quantitative development. <br/>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rahulmeetu/)](https://twitter.com/rahulmeetu/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulsingh13/)](https://www.linkedin.com/in/rahulsingh13/)
