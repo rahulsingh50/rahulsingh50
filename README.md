@@ -2,7 +2,7 @@
 
 # Rahul Singh
 
-I am Quant and Full Stack Data Scientist. I am interests lie in software development and integration practices in the areas of computation,AI, quantitative finance and algorithmic trading or Algotrading. <br/>
+I am Quant and Full Stack Data Scientist. I am interests lie in software development and integration practices in the areas of computation,AI,Machine Learning,Quantitative Finance and Algorithmic Trading or Algotrading. <br/>
 In technological interests include Python,C++,Rust,Java Scripts,TypeScripts programming as well high-performance and low latency computing using technologies such as CUDA and FPGAs. <br/>
 I am Open  to Open Source projects.<br/>
 
