@@ -3,7 +3,7 @@
 # Rahul Singh
 
 I am Quant and Full Stack Data Scientist. I am interests lie in software development and integration practices in the areas of computation,AI,Machine Learning,Quantitative Finance and Algorithmic Trading or Algotrading. <br/><br/>
-In technological interests include Python,C++,Rust,Java Scripts,TypeScripts programming as well high-performance and low latency computing using technologies such as CUDA and FPGAs. <br/>
+In technological interests include Python,C++,Rust,Java Scripts,TypeScripts programming as well high-performance and low latency computing using technologies such as CUDA and FPGAs. <br/><br/>
 I am Open  to Open Source projects.<br/>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rahulmeetu/)](https://twitter.com/rahulmeetu/)
