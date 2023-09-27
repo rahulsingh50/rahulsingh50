@@ -2,7 +2,8 @@
 
 # Rahul Singh
 
-I am Rahul Singh work as a Data Scientist. I am interests lie in software development and integration practices in the areas of computation,AI, quantitative finance and algorithmic trading or Algotrading. <br/>
+I am Quant and Data Scientist. I am interests lie in software development and integration practices in the areas of computation,AI, quantitative finance and algorithmic trading or Algotrading. <br/>
+In technological interests include Python and C++ programming as well high-performance computing using technologies such as CUDA and go. <br/>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rahulmeetu/)](https://twitter.com/rahulmeetu/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulsingh13/)](https://www.linkedin.com/in/rahulsingh13/)
