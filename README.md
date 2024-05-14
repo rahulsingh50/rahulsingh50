@@ -9,7 +9,7 @@
  [![Medium Articles](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulsingh50) &nbsp; 
    [![Twitter Follow](https://img.shields.io/twitter/follow/RahulSingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rahulmeetu)
 
-## I'm an  AI Engineer, AI Researcher, Machine Learning Scientist, Data Scientist, NLP Engineer, Computer Vision, AI Analyst,Gen AI
+## I'm an  Machine learning Engineer and Data Scientist who is passionate about cutting-edge technology and solving real-world problems, with previous experience in Machine learning, Deep learning, and Generative AI.
 
     🔭 I am Currently working as Machine learning Engineer & Data Scientist 
 
