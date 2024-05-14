@@ -1,10 +1,10 @@
 <a href="">
-  <img width="100%" src="https://github.com/rahulsingh50/abonia1/blob/master/%40Abonia1.png">
+  <img width="100%" src="https://github.com/rahulsingh50/rahulsingh50/blob/main/rahulisngh.png">
 </a>
 
 ### Hi there, I'm Rahul Singh👋
   ![](https://komarev.com/ghpvc/?username=abonia1&color=green)  
-   [![Website](https://img.shields.io/website?label=abonia.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rahulsingh50.github.io/)
+   [![Website](https://img.shields.io/website?label=rahul.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rahulsingh50.github.io/)
   [![Website](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/rahulsingh13/)
  [![Medium Articles](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white)](rahulsingh50.github.io/) &nbsp; 
    [![Twitter Follow](https://img.shields.io/twitter/follow/AboniaJesse?color=1DA1F2&logo=twitter&style=for-the-badge)](https:/)
