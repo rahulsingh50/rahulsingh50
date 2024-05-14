@@ -19,7 +19,7 @@
 
     🥅 2024 Goals: Dive deeper into the realms of Gen AI, Deep Learning, NLP, and Time Series Analysis. I aim to conduct extensive applied research, transforming innovative ideas into production-ready solutions that make a tangible impact on real-world challenges.
 
-    ⚡ Fun fact: I love to code and solving problems. Love problems 💪
+    ⚡ Fun fact: I love to code and solving problems. 
 
  ---
   <div>
