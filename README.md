@@ -7,7 +7,7 @@
    [![Website](https://img.shields.io/website?label=rahul.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rahulsingh50.github.io/)
   [![Website](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/rahulsingh13/)
  [![Medium Articles](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulsingh50) &nbsp; 
-   [![Twitter Follow](https://img.shields.io/twitter/follow/RahulSingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https:/)
+   [![Twitter Follow](https://img.shields.io/twitter/follow/RahulSingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rahulmeetu)
 
 ## I'm an  AI Engineer, AI Researcher, Machine Learning Scientist, Data Scientist, NLP Engineer, Computer Vision, AI Analyst,Gen AI
 
