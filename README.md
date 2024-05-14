@@ -1,35 +1,76 @@
-### Hi there 👋
+<a href="">
+  <img width="100%" src="https://github.com/rahulsingh50/abonia1/blob/master/%40Abonia1.png">
+</a>
 
-# Rahul Singh
+### Hi there, I'm Rahul Singh👋
+  ![](https://komarev.com/ghpvc/?username=abonia1&color=green)  
+   [![Website](https://img.shields.io/website?label=abonia.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rahulsingh50.github.io/)
+  [![Website](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/rahulsingh13/)
+ [![Medium Articles](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white)](rahulsingh50.github.io/) &nbsp; 
+   [![Twitter Follow](https://img.shields.io/twitter/follow/AboniaJesse?color=1DA1F2&logo=twitter&style=for-the-badge)](https:/)
 
-Data Geek with  exp in Data Scientist & Machine Learning Engineer (MLE) with proven success in design, build, deploy machine learning models using appropriate algorithms and frameworks for different use-cases. Highly adept at data mining, data pipeline, cleaning, building models, deploying and ability to apply ML techniques to solve real-world industry problems.. <br/><br/>
-In technological interests include Python,Open AI,Generative AI,Scikit-Learn, SciPy, PyTorch, TensorFlow, Keras, NLTK, spaCy,Vector Databases,Huggingface-Models, LLMs, Vector Databases,SaaS, RAG, Prompt Engineering  etc. <br/><br/>
-I am Open  to Open Source projects.<br/>
+## I'm an  AI Engineer, AI Researcher, Machine Learning Scientist, Data Scientist, NLP Engineer, Computer Vision, AI Analyst,Gen AI
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rahulmeetu/)](https://twitter.com/rahulmeetu/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulsingh13/)](https://www.linkedin.com/in/rahulsingh13/)
-[![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/rahulsingh50)](https://medium.com/rahulsingh50)
-[![GitHub Rahul](https://img.shields.io/github/followers/rahulsingh50?label=follow&style=social)](https://github.com/rahulsingh50)
+    🔭 I am Currently working as Machine learning Engineer & Data Scientist 
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frahulsingh50%2Frahulsingh50" alt="Hits">
+    🌱 I’m currently Learning Gen AI😎.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsingh50&layout=compact&hide=html" />
+    👯 I’m collaborator of opensource ML projects and looking for more collaboration.
 
-<!---
-_Last updated: October 2018_
---->
+    🥅 2024 Goals: Dive deeper into the realms of Gen AI, Deep Learning, NLP, and Time Series Analysis. I aim to conduct extensive applied research, transforming innovative ideas into production-ready solutions that make a tangible impact on real-world challenges.
 
-<!--
-**rahulsingh50/rahulsingh50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    ⚡ Fun fact: I love to code and solving problems. Love problems 💪
 
-Here are some ideas to get you started:
+ ---
+  <div>
+  <b>My GitHub Stats</b><br />
+    <a href="https://github.com/rahulsingh50"><img src="https://github-readme-stats.vercel.app/api?username=abonia1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abonia1's GitHub stats" /></a>
+    <a href="https://github.com/rahulsingh50"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abonia1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    <a href="https://github.com/rahulsingh50"><img src="https://github-readme-activity-graph.vercel.app/graph?username=abonia1&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/rahulsingh50/github-readme-activity-graph" alt="GitHub Commits Graph" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/rahulsingh50" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abonia1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  </div>                <br> <b>⚡ Technologies I use </b>
+      <div align="center">
+    <table align="center">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/python.jpeg" width="65px"/>
+                <br /> Python
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/jupyter.png" width="65px"/>
+                <br /> Jupyter
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/tensorflow.png" width="65px"/>
+                <br /> TensorFlow
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/pytorch.png" width="65px"/>
+                <br /> Pytorch
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/scikitlearn.png" width="65px"/>
+                <br /> Scikit Learn
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/fastapi.png" width="65px"/>
+                <br /> FastAPI
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/docker.png" width="65px"/>
+                <br /> Docker
+            </td>
+        </tr>
+    </table>
+    </div>
+  
+  
+
+### Important Repository
+
+💾 Seq2seq AI Chatbot with attention mechanism - [🔗](https://github.com/rahulsingh50/Seq2Seq-Chatbot)
+
+---
+
+***Thanks for visiting my profile.***
