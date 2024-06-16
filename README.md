@@ -13,7 +13,7 @@
 
     🔭 I am Currently working as Machine learning Engineer & Data Scientist 
 
-    🌱 I’m currently Learning GenAI,LLMs,RAG,MLops 😎.
+    🌱 I’m currently Learning GenAI,LLMs,RAG,MLOps 😎.
 
     👯 I’m collaborator of opensource ML projects and looking for more collaboration.
 
