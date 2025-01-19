@@ -2,24 +2,31 @@
   <img width="100%" src="https://github.com/rahulsingh50/rahulsingh50/blob/main/rahulisngh.png">
 </a>
 
-### Hi there, I'm Rahul Singh👋
+# Rahul Singh 👨‍💻 
+
+<div align="center">
+  
+### AI Engineer | Data Scientist | Generative AI Expert | Google Cloud Specialist 
+
   ![](https://komarev.com/ghpvc/?username=abonia1&color=green)  
    [![Website](https://img.shields.io/website?label=rahul.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rahulsingh50.github.io/)
   [![Website](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/rahulsingh13/)
  [![Medium Articles](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulsingh50) &nbsp; 
    [![Twitter Follow](https://img.shields.io/twitter/follow/RahulSingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rahulmeetu)
 
-## I'm an  Machine learning Engineer and Data Scientist who is passionate about cutting-edge technology and solving real-world problems, with experience in Machine learning, Deep learning, and Generative AI.
+</div>
+    ## 🚀 About Me
 
-    🔭 I am Currently working as Machine learning Engineer & Data Scientist 
+> Building the future with AI, one model at a time
 
-    🌱 I’m currently Learning GenAI,LLMs,RAG,MLOps 😎.
+I'm an AI Engineer/Data Scientist specializing in end-to-end AI solution development using Google Cloud Platform,AWS. My expertise spans:
+- 🤖 Machine Learning & Deep Learning
+- 📊 Large Language Models & Generative AI
+- 🔄 Google Contact Centre AI Implementation
+- 🎯 Scalable AI Systems Architecture
+- 💡 Business-Focused AI Solutions
 
-    👯 I’m collaborator of opensource ML projects and looking for more collaboration.
-
-    🥅 2024 Goals: Dive deeper into the realms of Gen AI, Deep Learning, NLP, and Time Series Analysis. I aim to conduct extensive applied research, transforming innovative ideas into production-ready solutions that make a tangible impact on real-world challenges.
-
-    ⚡ Fun fact: I love to code and solving problems. 
+Currently working at **SRM Technolgies**, focusing on enterprise-scale AI implementations and innovations.
 
  ---
   <div>
