@@ -1,13 +1,13 @@
-# Yash Kavaiya 👨‍💻 
+# Rahul Singh 👨‍💻 
 
 <div align="center">
   
-### AI Engineer | Google Cloud Specialist | Generative AI Expert
+### AI Engineer | Data Scientist | Generative AI Expert | Google Cloud Specialist 
 
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/yashkavaiya/)
-[<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />](https://x.com/Yash_Kavaiya_)
-[<img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" />](https://medium.com/@yash.kavaiya3)
-[![Profile Views](https://komarev.com/ghpvc/?username=yash-kavaiya&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Yash-Kavaiya)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/rahulsingh13/)
+[<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />](https://x.com/connect2rsb)
+[<img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" />](https://medium.com/@rahulsingh50)
+[![Profile Views](https://komarev.com/ghpvc/?username=yash-kavaiya&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://rahulsingh50.github.io/)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 > Building the future with AI, one model at a time
 
-I'm an AI Engineer specializing in end-to-end AI solution development using Google Cloud Platform. My expertise spans:
+I'm an Data Scientist & AI Engineer specializing in end-to-end AI solution development using Google Cloud Platform. My expertise spans:
 - 🤖 Machine Learning & Deep Learning
 - 📊 Large Language Models & Generative AI
 - 🔄 Google Contact Centre AI Implementation
