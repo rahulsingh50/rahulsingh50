@@ -27,7 +27,7 @@ I'm an AI Engineer & Data Scientist specializing in end-to-end AI solution devel
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="20"> | Scalable AI Systems Architecture |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"> | Business-Focused AI Solutions |
 
-Currently working at **Accenture**, focusing on enterprise-scale AI implementations and innovations.
+Currently working at **SRM Technology**, focusing on enterprise-scale AI implementations and innovations.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25"> Tech Stack
 
