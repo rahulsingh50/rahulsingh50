@@ -120,7 +120,7 @@ mindmap
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="25" height="25"> Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yash-kavaiya/" target="_blank">
+  <a href="https://www.linkedin.com/in/rahulsingh13/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/rahulsingh50" target="_blank">
