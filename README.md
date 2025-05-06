@@ -74,7 +74,7 @@ mindmap
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Writing%20Hand.png" width="40"></td>
     <td><b>Technical Writing:</b></td>
-    <td><a href="https://medium.com/@yash.kavaiya3">Medium Blog</a></td>
+    <td><a href="https://medium.com/@rahulsingh50">Medium Blog</a></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40"></td>
@@ -100,7 +100,7 @@ mindmap
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-Kavaiya&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=3382ed&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true)](https://github.com/Yash-Kavaiya)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulsingh50&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=3382ed&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true)](https://github.com/Yash-Kavaiya)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Kavaiya&stroke=3382ed&background=ffffff&ring=444e59&fire=444e59&currStreakNum=3382ed&currStreakLabel=444e59&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true)](https://github.com/Yash-Kavaiya)
 
@@ -123,10 +123,10 @@ mindmap
   <a href="https://www.linkedin.com/in/yash-kavaiya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Yash-Kavaiya" target="_blank">
+  <a href="https://github.com/rahulsingh50" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://medium.com/@yash.kavaiya3" target="_blank">
+  <a href="https://medium.com/@rahulsingh50" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
