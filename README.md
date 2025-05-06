@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"> Yash Kavaiya
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40"> Rahul Singh
 
 <div align="center">
-  <h3>🌟 AI Engineer | Google Cloud Specialist | Conversation AI Expert 🌟</h3>
+  <h3>🌟 AI Engineer | Data Scientist | Conversation AI Expert | Google Cloud Specialist 🌟</h3>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
   </blockquote>
 </div>
 
-I'm an AI Engineer specializing in end-to-end AI solution development using Google Cloud Platform. My expertise spans:
+I'm an AI Engineer & Data Scientist specializing in end-to-end AI solution development using Google Cloud Platform. My expertise spans:
 
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20"> | Machine Learning & Deep Learning |
 |:--:|:---|
